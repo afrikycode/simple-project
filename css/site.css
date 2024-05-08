@@ -9,6 +9,8 @@
             font-family: "Segoe UI";
             src: url('../fonts/segoeuil.ttf');
         }
+		
+		/*--feat2 comment - This declaration for main-container class*/
         .main-container {
             height: 100%;
             width: 100%;
